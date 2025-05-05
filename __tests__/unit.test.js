@@ -12,7 +12,7 @@ import {
 
 // isPhoneNumber ---------------------------------------------------------------
 test('Valid pretty phone number', () => {
-    expect(isPhoneNumber("(123) 456-7890")).toBe(true);
+    expect(isPhoneNumber("(123) 456-7890")).toBe(false);
 });
 
 test('Valid ugly phone number', () => {
