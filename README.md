@@ -15,5 +15,5 @@ and see if the messaging feature properly allows/disallows messages. This
 feature is small enough to be fully debugged with unit tests.
 
 # Links
-[expose.html](https://danielbonkowsky.github.io/Lab5_Starter/expose.html)
-[explore.html](https://danielbonkowsky.github.io/Lab5_Starter/explore.html)
+- [expose.html](https://danielbonkowsky.github.io/Lab5_Starter/expose.html)
+- [explore.html](https://danielbonkowsky.github.io/Lab5_Starter/explore.html)
